@@ -1,0 +1,3 @@
+[submodule "libsubmoduleA"]
+	path = libsubmoduleA
+	url = https://github.com/bachtx2796/libsubmoduleA.git
